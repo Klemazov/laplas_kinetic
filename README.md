@@ -1,2 +1,2 @@
 # laplas_kinetic
-desctop application for activation energy calculation
+desktop application for activation energy calculation
